@@ -17,12 +17,6 @@
       "day": "Monday 4th Aug 2022",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "Call Joy's father",
-      "day": "Today @ now",
-      "reminder": false,
-      "id": 4
     }
   ]
 }

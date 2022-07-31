@@ -36,6 +36,7 @@ function App() {
     const data = await res.json()
 
     setTasks([...tasks, data])
+    setShowAddTask(false)
 
     // const id = Math.floor(Math.random() * 10000) + 1;
     // const newTask = { id, ...task };
