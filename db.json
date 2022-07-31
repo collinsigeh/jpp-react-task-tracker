@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": true
-    },
-    {
-      "text": "Pay Melody's School Fees",
-      "day": "Monday 4th Aug 2022",
+      "text": "Joe's wedding",
+      "day": "24th March at 10:00am",
       "reminder": true,
-      "id": 3
+      "id": 1
+    },
+    {
+      "text": "Meeting at School",
+      "day": "Mon, 1st Aug at 12:00noon",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
