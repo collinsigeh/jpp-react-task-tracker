@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "Joe's wedding",
-      "day": "24th March at 10:00am",
-      "reminder": true,
-      "id": 1
-    },
-    {
-      "text": "Meeting at School",
-      "day": "Mon, 1st Aug at 12:00noon",
-      "reminder": false,
-      "id": 2
-    }
-  ]
+  "tasks": []
 }
